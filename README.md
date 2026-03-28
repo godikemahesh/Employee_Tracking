@@ -2,13 +2,13 @@
 
 ---
 
-# 🚀 Employee Zone Monitoring System
+#  Employee Zone Monitoring System
 
-## 🎯 Multi-Camera AI-Based Presence Tracking & Reporting System
+##  Multi-Camera AI-Based Presence Tracking & Reporting System
 
 ---
 
-## 📌 1. Overview
+##  1. Overview
 
 The **Employee Zone Monitoring System** is an AI-powered solution designed to monitor employee presence across multiple CCTV cameras using computer vision.
 
